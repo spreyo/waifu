@@ -1,0 +1,18 @@
+#waifuImage {
+    width: 100%;
+    border-radius: 1vw;
+    position: absolute;
+    top: 5vw;
+
+}
+
+#desc {
+    /* text-shadow: 0 0 10px #000; */
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    left: 44vw;
+    text-align: center;
+    color: palevioletred;
+    font-size: 4vw;
+}
